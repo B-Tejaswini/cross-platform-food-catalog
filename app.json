@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Food Catalog",
+    "slug": "food-catalog-assignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true
+  }
+}
